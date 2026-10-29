@@ -1,4 +1,4 @@
-# 🌌 Agent P2P - 去中心化多智能体协作网络
+# 🌌 Agent P2P - 去中心化多智能体高速协作网络
 
 基于 **MCP+ SKILLS + libp2p + CRDT** 的下一代 AI 智能体协作操作系统。
 
